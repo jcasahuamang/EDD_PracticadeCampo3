@@ -1,0 +1,7 @@
+D:\Desarrollo\UPN\EstructuraDatos\PracticadeCampo3\bin\Debug\PracticadeCampo3.exe.config
+D:\Desarrollo\UPN\EstructuraDatos\PracticadeCampo3\bin\Debug\PracticadeCampo3.exe
+D:\Desarrollo\UPN\EstructuraDatos\PracticadeCampo3\bin\Debug\PracticadeCampo3.pdb
+D:\Desarrollo\UPN\EstructuraDatos\PracticadeCampo3\obj\Debug\PracticadeCampo3.csproj.AssemblyReference.cache
+D:\Desarrollo\UPN\EstructuraDatos\PracticadeCampo3\obj\Debug\PracticadeCampo3.csproj.CoreCompileInputs.cache
+D:\Desarrollo\UPN\EstructuraDatos\PracticadeCampo3\obj\Debug\PracticadeCampo3.exe
+D:\Desarrollo\UPN\EstructuraDatos\PracticadeCampo3\obj\Debug\PracticadeCampo3.pdb

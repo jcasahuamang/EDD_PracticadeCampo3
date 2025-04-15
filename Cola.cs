@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PracticadeCampo3
 {
@@ -64,17 +60,33 @@ namespace PracticadeCampo3
 
             Console.WriteLine("\n**************************** LISTADO DE CLIENTES ****************************");
 
-            Console.WriteLine("\nNRO. DE CLIENTES: "+ totalClientes);
+            Console.WriteLine("\nNRO. DE CLIENTES: " + totalClientes);
             while (ptr != null)
             {
-                Console.WriteLine("\nCLIENTE: "+ contador+ "\tNumero de Articulos: \t" + ptr.info.Num_articulos + "\n\t\tTotal a pagar: \t\t" + ptr.info.Total_pagar);
+                Console.WriteLine("\nCLIENTE: " + contador + "\tNumero de Articulos: \t" + ptr.info.Num_articulos + "\n\t\tTotal a pagar: \t\t" + ptr.info.Total_pagar);
                 ptr = ptr.sig;
                 contador++;
             }
             Console.WriteLine("\n\t\t________________________________");
-            Console.WriteLine("\n\t\tTOTAL DE INGRESOS: \t"+ ventaTotal+'\n');
+            Console.WriteLine("\n\t\tTOTAL DE INGRESOS: \t" + ventaTotal + '\n');
             Console.WriteLine("\n*****************************************************************************\n");
         }
 
+        public void VerFrente()
+        {
+            if (EsVacia())
+            {
+                Console.WriteLine("La cola está vacía. No hay clientes para mostrar.");
+                return;
+            }
+
+            Console.WriteLine("\n**************************** CLIENTE AL FRENTE ****************************");
+            Console.WriteLine("\nNumero de Artículos: \t" + frente.info.Num_articulos);
+            Console.WriteLine("Total a pagar: \t\t" + frente.info.Total_pagar);
+            Console.WriteLine("***************************************************************************\n");
+        }
+
+
     }
+
 }

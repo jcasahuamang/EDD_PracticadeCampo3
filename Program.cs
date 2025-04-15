@@ -29,7 +29,8 @@ namespace PracticadeCampo3
             Console.ReadLine();
             miCola.DesEncolar();
             miCola.Mostrar();
-            Console.ReadLine();
+//            Console.ReadLine();
+            miCola.VerFrente();
 
         }
     }

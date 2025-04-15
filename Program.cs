@@ -27,6 +27,9 @@ namespace PracticadeCampo3
             /*********  Imprimiendo compra ***********************/
             miCola.Mostrar();
             Console.ReadLine();
+            miCola.DesEncolar();
+            miCola.Mostrar();
+            Console.ReadLine();
 
         }
     }

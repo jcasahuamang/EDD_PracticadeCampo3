@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "D:\\Desarrollo\\UPN\\EstructuraDatos\\PracticadeCampo3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|D:\\Desarrollo\\UPN\\EstructuraDatos\\PracticadeCampo3\\nodocola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|solutionrelative:nodocola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|D:\\Desarrollo\\UPN\\EstructuraDatos\\PracticadeCampo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|d:\\desarrollo\\upn\\estructuradatos\\practicadecampo3\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|d:\\desarrollo\\upn\\estructuradatos\\practicadecampo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|d:\\desarrollo\\upn\\estructuradatos\\practicadecampo3\\nodocola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|solutionrelative:nodocola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|d:\\desarrollo\\upn\\estructuradatos\\practicadecampo3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|D:\\Desarrollo\\UPN\\EstructuraDatos\\PracticadeCampo3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB8FCD98-1C3C-47C1-B52F-7BB4FA857B03}|PracticadeCampo3.csproj|solutionrelative:productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Cola.cs",
               "DocumentMoniker": "D:\\Desarrollo\\UPN\\EstructuraDatos\\PracticadeCampo3\\Cola.cs",
               "RelativeDocumentMoniker": "Cola.cs",
               "ToolTip": "D:\\Desarrollo\\UPN\\EstructuraDatos\\PracticadeCampo3\\Cola.cs",
               "RelativeToolTip": "Cola.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T13:25:05.512Z",
               "IsPinned": true,
@@ -44,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NodoCola.cs",
               "DocumentMoniker": "D:\\Desarrollo\\UPN\\EstructuraDatos\\PracticadeCampo3\\NodoCola.cs",
               "RelativeDocumentMoniker": "NodoCola.cs",
               "ToolTip": "D:\\Desarrollo\\UPN\\EstructuraDatos\\PracticadeCampo3\\NodoCola.cs",
               "RelativeToolTip": "NodoCola.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T13:24:36.843Z",
               "EditorCaption": ""
@@ -63,7 +63,7 @@
               "RelativeDocumentMoniker": "Productos.cs",
               "ToolTip": "D:\\Desarrollo\\UPN\\EstructuraDatos\\PracticadeCampo3\\Productos.cs",
               "RelativeToolTip": "Productos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T13:16:21.964Z",
               "EditorCaption": ""
@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Desarrollo\\UPN\\EstructuraDatos\\PracticadeCampo3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBUAAABvAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T13:11:05.089Z",
               "EditorCaption": ""

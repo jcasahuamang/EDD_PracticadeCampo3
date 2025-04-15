@@ -37,6 +37,26 @@ namespace PracticadeCampo3
             totalClientes++;
             ventaTotal += cliente.Total_pagar;
         }
+        // Elimina un cliente del frente de la cola
+        public void DesEncolar()
+        {
+            if (EsVacia())
+            {
+                Console.WriteLine("La cola está vacía. No hay clientes para eliminar.");
+                return;
+            }
+
+            Console.WriteLine($"Cliente eliminado: {frente.info.Num_articulos} artículos, Total: {frente.info.Total_pagar}");
+
+            ventaTotal -= frente.info.Total_pagar;
+            totalClientes--;
+            frente = frente.sig;
+
+            if (frente == null)
+                final = null;
+        }
+
+
         public void Mostrar()
         {
             NodoCola ptr = frente;
